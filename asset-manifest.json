@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/cbhi-converter/static/js/main.95a8b7a3.chunk.js",
+    "main.js.map": "/cbhi-converter/static/js/main.95a8b7a3.chunk.js.map",
+    "runtime-main.js": "/cbhi-converter/static/js/runtime-main.17c0e43f.js",
+    "runtime-main.js.map": "/cbhi-converter/static/js/runtime-main.17c0e43f.js.map",
+    "static/css/2.fabbef47.chunk.css": "/cbhi-converter/static/css/2.fabbef47.chunk.css",
+    "static/js/2.b72d0a21.chunk.js": "/cbhi-converter/static/js/2.b72d0a21.chunk.js",
+    "static/js/2.b72d0a21.chunk.js.map": "/cbhi-converter/static/js/2.b72d0a21.chunk.js.map",
+    "static/js/3.0d0c1492.chunk.js": "/cbhi-converter/static/js/3.0d0c1492.chunk.js",
+    "static/js/3.0d0c1492.chunk.js.map": "/cbhi-converter/static/js/3.0d0c1492.chunk.js.map",
+    "index.html": "/cbhi-converter/index.html",
+    "service-worker.js": "/cbhi-converter/service-worker.js",
+    "service-worker.js.map": "/cbhi-converter/service-worker.js.map",
+    "static/css/2.fabbef47.chunk.css.map": "/cbhi-converter/static/css/2.fabbef47.chunk.css.map",
+    "static/js/2.b72d0a21.chunk.js.LICENSE.txt": "/cbhi-converter/static/js/2.b72d0a21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17c0e43f.js",
+    "static/css/2.fabbef47.chunk.css",
+    "static/js/2.b72d0a21.chunk.js",
+    "static/js/main.95a8b7a3.chunk.js"
+  ]
+}
