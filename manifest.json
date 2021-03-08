@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "CBHI Converter",
+  "name": "Convert regional CBHI ID to national standard",
   "icons": [
     {
       "src": "favicon.ico",
